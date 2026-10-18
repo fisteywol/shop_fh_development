@@ -4,22 +4,22 @@
    Products live in products.js.
    ============================================================ */
 window.FH_CONFIG = {
-  storeName: "FH DEVELOPMENT",
+  storeName: "Fh Development",
 
   // Logo (top left) and optional banner image behind the header text.
   logoUrl: "https://cdn.fh-development.xyz/core/banners/Blue-Logo.jpg",
   bannerImageUrl: "", // e.g. "https://cdn.fh-development.xyz/core/banners/store-banner.jpg" (leave empty for the blue gradient)
 
   // Payhip
-  payhipUsername: "YOUR_PAYHIP_USERNAME",
-  profileUrl: "https://payhip.com/YOUR_PAYHIP_USERNAME", // change to wherever "Profile" should go
+  payhipUsername: "fh-development",
+  profileUrl: "https://payhip.com/fh-development", // change to wherever "Profile" should go
   cartUrl: "https://payhip.com/cart",
 
   // Footer links
   mainSiteUrl: "https://fh-development.xyz",
   statusUrl: "https://status.fh-development.xyz",
   supportEmail: "support@fh-development.xyz",
-  databaseUrl: "#",   // set the URL for "Database"
+  databaseUrl: "https://database.fh-development.xyz",   // set the URL for "Database"
   spaceshipUrl: "https://www.spaceship.com",
 
   // "Important logos" row at the bottom of the footer.
